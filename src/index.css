@@ -1,0 +1,73 @@
+.App h1 {
+  text-align: center;
+}
+
+.App {
+  border: 2px solid pink;
+  border-radius: 20px;
+  width: 300px;
+  height: 477px;
+  padding: 10px;
+  margin: 40px;
+}
+
+.progress {
+  background-color: #d8d8d8;
+  border-radius: 20px;
+  height: 30px;
+  width: 300px;
+  margin: 15px 0;
+  position: relative;
+}
+
+.ProgressBar {
+  display: flex;
+  box-shadow: 0 3px 3px -5px #F2709C, 0 2px 5px #F2709C;
+  background: linear-gradient(to left, #F2709C, #FF9472);
+  color: #d8d8d8;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 20px;
+  width: 0;
+  opacity: 0;
+  width: 10%;
+  transition: 1s ease 0.3s;
+}
+
+.form {
+  background-color: #ffffff;
+  border: none;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.form_input {
+  width: 200px;
+  padding: 2px;
+  margin: 5px 0 10px 0;
+}
+
+.button {
+  border: none;
+  background-color: #F2709C;
+  color: #ffffff;
+  width: 207px;
+  height: 23px;
+  margin-top: 10px;
+}
+
+.error {
+  color:#db2269;
+  font-size: 0.625em;
+}
+
+.signin {
+  text-align: right;
+  font-size: 10px;
+}
+
+.signin a {
+  color: #F2709C;
+}

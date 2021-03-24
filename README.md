@@ -20,14 +20,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - The state of the progress bar:  
 
-1. The progress bar is at 25% if one field has a valid value:  
+  1. The progress bar is at 25% if one field has a valid value:  
   <img src='pic/25login.png' width='200'/>
 
-2. The progress bar is at 25% if two fields have valid values: 
+  2. The progress bar is at 50% if two fields have valid values: 
   <img src='pic/50login.png' width='200'/>
   
-3. The progress bar is at 25% if three fields have valid values: 
+  3. The progress bar is at 75% if three fields have valid values: 
   <img src='pic/75login.png' width='200'/>
 
-4. The progress bar is at 100% if all fields have valid values: 
+  4. The progress bar is at 100% if all fields have valid values: 
   <img src='pic/100login.png' width='200'/>

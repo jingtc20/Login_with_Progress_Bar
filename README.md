@@ -5,10 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Run the app
 
-In the project directory, you can run:`npm start`.
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+- Execute `config.sh` to create a React App
+- Download the file **index.css** into the **src/** folder
+- Download the file **index.js** into the **src/** folder
+- Run `npm start` in the **my-app/** folder 
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Example
 - The login page looks like:  
